@@ -1,0 +1,200 @@
+{
+  "home_images": [
+    {
+      "id": "e52bb556-3d34-4da1-b415-61942e1953b4",
+      "url": "/uploads/7d13f053-41e4-4d9f-baa2-db59f7e385dd_Screenshot from 2025-11-20 09-41-00.png",
+      "filename": "7d13f053-41e4-4d9f-baa2-db59f7e385dd_Screenshot from 2025-11-20 09-41-00.png",
+      "uploaded_at": "2026-02-16T12:32:52.709366"
+    }
+  ],
+  "high_selling_packages": [
+    {
+      "id": "53d4403a-797c-431b-88cc-ee5d63f81284",
+      "name": "Kerala  ",
+      "price": "$2000",
+      "description": "the kerala trip is so spesal and make it joy",
+      "image": "/uploads/b3a97a0f-8b56-4078-9b0f-5068e74f8f93_Screenshot from 2025-11-20 10-23-21.png",
+      "created_at": "2026-02-16T12:20:56.953790"
+    },
+    {
+      "id": "79d80e30-a988-47f8-9761-c6c37640e58f",
+      "name": "hjmhjmh",
+      "price": "6777",
+      "description": "k,uuu  yujyuj yjyjujty yjtyj ",
+      "image": "/uploads/60b9a300-6419-40d9-9534-bae52ede1410_Screenshot from 2025-10-17 11-49-57.png",
+      "created_at": "2026-02-18T11:00:14.421306"
+    }
+  ],
+  "all_packages": [
+    {
+      "id": "ac104b4c-19ec-4a6a-985c-4992e84ac4dc",
+      "name": "kerala ",
+      "price": "$2000",
+      "description": "the kerala trip is so spesal and make it joy",
+      "image": "/uploads/2db39d32-8744-4ec2-88cc-334676f93374_Screenshot from 2025-11-20 10-23-21.png",
+      "created_at": "2026-02-16T12:23:44.295694",
+      "duration": "10",
+      "includes": [
+        "all"
+      ]
+    },
+    {
+      "id": "daa9e32c-c8be-4bc6-b0a6-76747f3f1c10",
+      "name": "jhdsvhb",
+      "price": "5222",
+      "description": "shdv sshdiuvh iosshdviuh iosdhivuh ishdiuh ",
+      "duration": "5",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/7cfb818b-8709-4279-9727-c4b3e0ee1f33_Screenshot from 2025-10-08 10-57-11.png",
+      "created_at": "2026-02-18T14:51:53.230901"
+    },
+    {
+      "id": "5cb2b202-7fb2-46a2-bcce-89dc6564e660",
+      "name": "ugsdf ",
+      "price": "5555",
+      "description": "sjdhbv bhsiuc uhdciu uhsdiuch phscuh uhsciu hasiuch ",
+      "duration": "5222",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/4e04bbea-7f4d-4bc3-bb67-e9dcecb1260d_Screenshot from 2025-10-17 11-49-57.png",
+      "created_at": "2026-02-18T14:52:26.587036"
+    },
+    {
+      "id": "70ae0253-302e-44cc-a2f2-73c31722e688",
+      "name": "kugshadfiuchu",
+      "price": "4555",
+      "description": "husdgc iuhasc piahsciuh isudhvoiuchsd ushdiuch hiu shciushdc hsuhsc 9uhsciuhuoch siuhdfiuh ",
+      "duration": "7",
+      "includes": [
+        "alllallallallallallallallall"
+      ],
+      "image": "/uploads/1dbb3cf5-6611-4011-943a-fb9266361faf_Screenshot from 2025-11-06 12-05-56.png",
+      "created_at": "2026-02-18T14:53:13.076421"
+    },
+    {
+      "id": "30bd46f4-b58b-4cfd-95ba-34cc1c18af30",
+      "name": "jdhbc hb",
+      "price": "44444",
+      "description": "jdfhv iudhvu udshvu sdhvu9 sudhv ",
+      "duration": "5",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/deb369fa-3998-4a77-a8ee-64b7814d90f2_Screenshot from 2025-11-12 15-11-01.png",
+      "created_at": "2026-02-18T14:53:58.673571"
+    },
+    {
+      "id": "143cfd65-08c6-44d7-9a07-21b191c2da35",
+      "name": "kjdbhsvhub",
+      "price": "45884",
+      "description": "kdjhv iusdhv iosdhv oisdhv osdhv ",
+      "duration": "4",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/fbad5c53-69c0-404c-982a-a909cc0ca27a_Screenshot from 2025-11-20 10-20-23.png",
+      "created_at": "2026-02-18T14:54:25.515344"
+    },
+    {
+      "id": "3d67f5c0-ba5f-417e-82b1-e517d6613e26",
+      "name": "hudgv ",
+      "price": "455",
+      "description": "diuvhsujhsiudhc iosdjvi sdovjiosjdv oisjdvi sdi jsudj asijvis diasj sijs vsij ",
+      "duration": "7",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/5e3bfe20-035a-4698-a54b-6f5a9f7aed4a_Screenshot from 2025-11-20 09-41-00.png",
+      "created_at": "2026-02-18T14:54:47.163998"
+    },
+    {
+      "id": "651f844e-da44-4a3e-8b26-2778ac3bd3f1",
+      "name": "sjdhgvyusdc",
+      "price": "757",
+      "description": "yudghvugiudvs dsjhishdv suhdvuhsdv ishduhs dd",
+      "duration": "4",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/bd216a64-5d5d-401b-9249-61a0e197baf3_Screenshot from 2025-11-20 09-41-59.png",
+      "created_at": "2026-02-18T14:55:24.297939"
+    },
+    {
+      "id": "a25a777f-fcd4-42e5-9339-25ff53e3f84e",
+      "name": "jhdsbvhb",
+      "price": "1999",
+      "description": "kjsdh ushdcpu shdcuhs ushdiuch shdciuhsdc hsdiuch scsiuhdciu schiushdc ushdiuc shiush dc",
+      "duration": "4",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/0fd2a3c6-9851-4f82-9809-cdaeb8a58384_Screenshot from 2025-11-20 09-42-29.png",
+      "created_at": "2026-02-18T14:55:47.880134"
+    },
+    {
+      "id": "6a618d6c-c19e-4e1d-b482-4ac914ebcb19",
+      "name": "kjdfhvuhfv",
+      "price": "7887",
+      "description": "dijfvudhv udhfvhjfv dhfvihdfv oidjfvi9hds vidvhvudshv idhfvihd viojvisduv iovhiudhfv duhfv doivhudv ivoiv vdviosdhvoiusdhvo oihdiuvh sdvhsud vipshvd vsihvu9ds v",
+      "duration": "5",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/8708e274-358c-4920-bf4a-6c4940660ca8_Screenshot from 2025-11-20 09-43-08.png",
+      "created_at": "2026-02-18T14:57:28.996460"
+    },
+    {
+      "id": "4086413b-831b-4254-81c7-c0342267cc72",
+      "name": "djhvuhu",
+      "price": "5888",
+      "description": "djfviujdhdiuhvu uhdvuhdvu dhviuhsdiuvh dhfviuhdpvihduv dhvihds vdsvhushv svsihvisjv sohiushvpiuhsd ioshviuhsiudv sishviudhiudhv ijhiudhvishv odvhsuhvu9s hviushiuhsdv iushdviuhsdv sudvhiushdv sudhviushvds ushviushvs ushviuodshviuodshv sdvhushdvusv ishvshdiv sviohsiuvhu9sv sihiushvusn vishviush vsoihiushv siovhsivh dsivhsidv siv hsoidvsiudv si ushvihdv dhviudhvidshv uhfvu hdiuhh i hi iihi o oiioh oiihiohdviuhh i ou uhuhiu j iohiuh ii nihi o idhcviuohdiuvhdsiuv hiuhiuuh uj hjj jhiuhiuh vduhviud vp9divhiuoshvubviud vdi vdiuv dvddhv dvuheiuovhdovdsiuvdivhdiuvhishv sdvhishv uvhduv dhvudhvoiusdn v ",
+      "duration": "4",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/a870725a-4223-425a-9c50-67bda111d836_Screenshot from 2025-11-20 10-18-08.png",
+      "created_at": "2026-02-18T14:58:29.321341"
+    },
+    {
+      "id": "ae9d3363-14e5-49dd-85d5-48ece20af1a4",
+      "name": "jdbfvhjbjv n ",
+      "price": "855",
+      "description": "jkdfnv jvioj ijpvi idjvij dfjv ivjijv ijvi ivjiojv iodfhvidvsdf djbidjfb iodjfbiojdb idjb odiobjd vdiovjiod v",
+      "duration": "7",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/b25d0412-b5ff-417a-8903-ce2a85a77635_Screenshot from 2026-02-18 12-33-50.png",
+      "created_at": "2026-02-18T14:59:43.796710"
+    },
+    {
+      "id": "d75ccef4-557d-4eba-b1c8-049060e420ca",
+      "name": "ksjdnfv",
+      "price": "4777",
+      "description": "kjdfnv divjdiovjiodjv oijdviojiodsvj osviojsodiv osdvondiuv oviojdoiv idjviodjvoidn vokdviojv dviodjv diovjds ivisdjviosjv ivjsd vivji iojviojd voijiovjio vijijvid voijodsifhvjiuodshfv oidfiovhdfv idjhfiuvhdifv idhiopfvhidhfv odhfiovhd fvidiufhv",
+      "duration": "4",
+      "includes": [
+        "all"
+      ],
+      "image": "/uploads/d4bcc2ff-8261-457e-9d5a-2a042fa8d53d_Screenshot from 2026-02-18 12-15-19.png",
+      "created_at": "2026-02-18T15:00:21.404314"
+    }
+  ],
+  "about_content": "",
+  "history": [],
+  "videos": [],
+  "enquiries": [
+    {
+      "id": "5b50863d-6c5a-4c25-a63c-6a679ad2db7d",
+      "name": "mjmnhmhvhv",
+      "email": "hgvgvgyv@gmail.com",
+      "contact": "4586216505",
+      "package": "kerala",
+      "message": "Book enquiry for kerala",
+      "timestamp": "2026-02-18T10:46:44.423973"
+    }
+  ]
+}
