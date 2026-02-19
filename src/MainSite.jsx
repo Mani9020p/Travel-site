@@ -256,9 +256,9 @@ function MainSite() {
       {/* Contact Section */}
       <section id="contact" className="section contact">
         <h2>Contact Us</h2>
-        <p>Email: info@travelcompany.com</p>
-        <p>Phone: +1 234 567 890</p>
-        <p>Address: 123 Travel Street, Adventure City</p>
+        <p>Email: koditoursntravels@gmail.com</p>
+        <p>Phone: +91 90036 51587</p>
+        <p>Address: Sultanpettai tiruppur</p>
       </section>
     </div>
   )

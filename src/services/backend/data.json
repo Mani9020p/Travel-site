@@ -1,12 +1,5 @@
 {
-  "home_images": [
-    {
-      "id": "e52bb556-3d34-4da1-b415-61942e1953b4",
-      "url": "/uploads/7d13f053-41e4-4d9f-baa2-db59f7e385dd_Screenshot from 2025-11-20 09-41-00.png",
-      "filename": "7d13f053-41e4-4d9f-baa2-db59f7e385dd_Screenshot from 2025-11-20 09-41-00.png",
-      "uploaded_at": "2026-02-16T12:32:52.709366"
-    }
-  ],
+  "home_images": [],
   "high_selling_packages": [
     {
       "id": "53d4403a-797c-431b-88cc-ee5d63f81284",
@@ -195,6 +188,15 @@
       "package": "kerala",
       "message": "Book enquiry for kerala",
       "timestamp": "2026-02-18T10:46:44.423973"
+    },
+    {
+      "id": "48f85fd8-5cda-4e7e-94db-40605811afde",
+      "name": "dooop",
+      "email": "dooop@gmail.com",
+      "contact": "785962459",
+      "package": "ksjdnfv",
+      "message": "Book enquiry for ksjdnfv",
+      "timestamp": "2026-02-19T10:42:41.615185"
     }
   ]
 }
