@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "backend": "./venv/bin/python src/services/backend/app.py"
+    "backend": "if [ ! -x ./venv/bin/python ]; then python3 -m venv venv && ./venv/bin/pip install -r src/services/backend/requirements.txt; fi && ./venv/bin/python src/services/backend/app.py"
   },
   "dependencies": {
     "react": "^19.2.0",
